@@ -9,9 +9,9 @@
 	<?php  
 $blackcolor="green";$fontcolor="red";$imageWidth="80px";$imageHeight="80px;"
 ?>
-<img src="aiublogo.jpg" width="300px" height="300px">
-<h2 style="display: inline;>American International University -<span style="background-color:yellow;color:cyan">
-Bangladesh
+<img src="aiublogo.jpg" width="<?php echo $imageWidth ?>" height="<?php echo $imageHeight ?>">
+<h2 style="display: inline;">American International University -<span style="background-color:<?php echo $blackcolor; ?>;color:<?php echo $fontcolor; ?>">
+<br>Bangladesh</span>
 </h2>
 </span>
 	

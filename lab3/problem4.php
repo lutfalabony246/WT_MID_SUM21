@@ -1,11 +1,10 @@
 <?php 
-$name="mina";
-if ($name=="raju" or "mina" or "mithu" ) 
+$name="rajii";
+if ($name=="raju" || $name=="mina" || $name=="mithu" ) 
 {
- 	echo "hello";
- } 
- else
- {
- 	echo"you are not recognized";
- }
+    echo "hello hh";
+}else {
+  echo "you are not recognized";
+}
+
 ?>
